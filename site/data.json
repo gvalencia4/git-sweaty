@@ -6812,6 +6812,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18377581056",
       "year": 2026
+    },
+    {
+      "date": "2026-05-05",
+      "hour": 16,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18397415753",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-06",
+      "hour": 6,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18397415441",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13227,6 +13245,24 @@
           "distance": 8058.5,
           "elevation_gain": 33.4,
           "moving_time": 2757.0
+        },
+        "2026-05-05": {
+          "activity_ids": [
+            "18397415753"
+          ],
+          "count": 1,
+          "distance": 6558.4,
+          "elevation_gain": 49.0,
+          "moving_time": 2759.0
+        },
+        "2026-05-06": {
+          "activity_ids": [
+            "18397415441"
+          ],
+          "count": 1,
+          "distance": 4030.4,
+          "elevation_gain": 58.2,
+          "moving_time": 1635.0
         }
       },
       "Walk": {
@@ -13345,7 +13381,7 @@
       }
     }
   },
-  "generated_at": "2026-05-05T16:28:08.577076+00:00",
+  "generated_at": "2026-05-06T16:46:47.497109+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/55571967",
   "repo": "gvalencia4/git-sweaty",
