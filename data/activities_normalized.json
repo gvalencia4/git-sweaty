@@ -9865,5 +9865,18 @@
     "start_date_local": "2026-05-06T06:38:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 3098.4,
+    "elevation_gain": 26.8,
+    "id": "18406364878",
+    "moving_time": 2009.0,
+    "name": "Heat wave mini",
+    "raw_activity_type": "Soccer",
+    "raw_type": "Soccer",
+    "start_date_local": "2026-05-06T18:33:43Z",
+    "type": "Soccer",
+    "year": 2026
   }
 ]

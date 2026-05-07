@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T16:46:47.482713+00:00",
+  "generated_at": "2026-05-07T16:56:18.787495+00:00",
   "years": {
     "2020": {
       "Hike": {
@@ -6431,6 +6431,17 @@
           "distance": 4030.4,
           "elevation_gain": 58.2,
           "moving_time": 1635.0
+        }
+      },
+      "Soccer": {
+        "2026-05-06": {
+          "activity_ids": [
+            "18406364878"
+          ],
+          "count": 1,
+          "distance": 3098.4,
+          "elevation_gain": 26.8,
+          "moving_time": 2009.0
         }
       },
       "Walk": {
