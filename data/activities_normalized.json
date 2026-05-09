@@ -9878,5 +9878,44 @@
     "start_date_local": "2026-05-06T18:33:43Z",
     "type": "Soccer",
     "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 3057.0,
+    "elevation_gain": 37.4,
+    "id": "18431599775",
+    "moving_time": 1917.0,
+    "name": "Blueprint mini",
+    "raw_activity_type": "Soccer",
+    "raw_type": "Soccer",
+    "start_date_local": "2026-05-07T18:15:40Z",
+    "type": "Soccer",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 524.7,
+    "elevation_gain": 0.0,
+    "id": "18431599983",
+    "moving_time": 171.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-07T20:40:04Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 5044.7,
+    "elevation_gain": 34.0,
+    "id": "18431600158",
+    "moving_time": 2365.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-08T06:41:30Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
