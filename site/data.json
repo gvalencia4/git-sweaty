@@ -6875,6 +6875,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18442652438",
       "year": 2026
+    },
+    {
+      "date": "2026-05-10",
+      "hour": 12,
+      "name": "Heat Wave Tryouts #3",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18458656597",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13335,6 +13344,15 @@
           "distance": 6582.7,
           "elevation_gain": 50.2,
           "moving_time": 2546.0
+        },
+        "2026-05-10": {
+          "activity_ids": [
+            "18458656597"
+          ],
+          "count": 1,
+          "distance": 4780.7,
+          "elevation_gain": 4.2,
+          "moving_time": 2243.0
         }
       },
       "Soccer": {
@@ -13473,7 +13491,7 @@
       }
     }
   },
-  "generated_at": "2026-05-10T15:58:53.551552+00:00",
+  "generated_at": "2026-05-11T17:27:50.042928+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/55571967",
   "repo": "gvalencia4/git-sweaty",
