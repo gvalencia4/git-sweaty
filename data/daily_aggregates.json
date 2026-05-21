@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T17:55:44.185710+00:00",
+  "generated_at": "2026-05-21T17:32:09.216934+00:00",
   "years": {
     "2020": {
       "Hike": {
@@ -5482,6 +5482,15 @@
           "distance": 18106.8,
           "elevation_gain": 128.0,
           "moving_time": 3270.0
+        },
+        "2026-05-19": {
+          "activity_ids": [
+            "18588933426"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1339.0
         }
       },
       "Run": {
@@ -6496,6 +6505,36 @@
           "distance": 3482.9,
           "elevation_gain": 34.2,
           "moving_time": 1510.0
+        },
+        "2026-05-16": {
+          "activity_ids": [
+            "18588821118",
+            "18588821182",
+            "18588821276",
+            "18588821655"
+          ],
+          "count": 4,
+          "distance": 10090.7,
+          "elevation_gain": 22.2,
+          "moving_time": 4899.0
+        },
+        "2026-05-18": {
+          "activity_ids": [
+            "18588821625"
+          ],
+          "count": 1,
+          "distance": 5054.3,
+          "elevation_gain": 36.0,
+          "moving_time": 1910.0
+        },
+        "2026-05-20": {
+          "activity_ids": [
+            "18588822101"
+          ],
+          "count": 1,
+          "distance": 7771.6,
+          "elevation_gain": 40.6,
+          "moving_time": 2701.0
         }
       },
       "Soccer": {
