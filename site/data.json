@@ -6983,6 +6983,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18626765807",
       "year": 2026
+    },
+    {
+      "date": "2026-05-24",
+      "hour": 15,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18641114324",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -13529,6 +13538,15 @@
           "distance": 9677.7,
           "elevation_gain": 58.4,
           "moving_time": 3095.0
+        },
+        "2026-05-24": {
+          "activity_ids": [
+            "18641114324"
+          ],
+          "count": 1,
+          "distance": 4885.3,
+          "elevation_gain": 16.4,
+          "moving_time": 1695.0
         }
       },
       "Soccer": {
@@ -13667,7 +13685,7 @@
       }
     }
   },
-  "generated_at": "2026-05-24T16:04:52.142647+00:00",
+  "generated_at": "2026-05-25T17:10:03.683142+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/55571967",
   "repo": "gvalencia4/git-sweaty",
