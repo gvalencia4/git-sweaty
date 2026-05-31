@@ -10099,5 +10099,31 @@
     "start_date_local": "2026-05-24T15:13:18Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 640.7,
+    "elevation_gain": 2.6,
+    "id": "18719878346",
+    "moving_time": 242.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-30T12:49:05Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 5012.0,
+    "elevation_gain": 20.2,
+    "id": "18719878605",
+    "moving_time": 1216.0,
+    "name": "Bandit Grand Prix 2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-30T13:08:40Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
